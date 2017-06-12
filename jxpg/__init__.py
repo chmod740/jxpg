@@ -61,6 +61,7 @@ class Jxpg:
             content = content.decode("gbk")
 
             if "评估成功" in content:
+                print("课程 " + sp[4] + " 评估成功")
                 count = count + 1
         print("评估成功" + str(count) + "门课!")
 jxpg = Jxpg("0141124373", "531652")
