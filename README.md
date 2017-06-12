@@ -17,3 +17,5 @@ jxpg.do()
 输出样例:
 > 评估成功7门课!
 
+评估后的结果样例:
+![](https://image.webprague.com/blog_img_1497258457229)
