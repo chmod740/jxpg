@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='jxpg',
-    version='0.0.1',
+    version='0.0.2',
     description='',
     author='hupeng',
     author_email='hupeng@imudges.com',
