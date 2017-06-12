@@ -1,0 +1,8 @@
+setup.py
+jxpg/__init__.py
+jxpg.egg-info/PKG-INFO
+jxpg.egg-info/SOURCES.txt
+jxpg.egg-info/dependency_links.txt
+jxpg.egg-info/not-zip-safe
+jxpg.egg-info/requires.txt
+jxpg.egg-info/top_level.txt
