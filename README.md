@@ -18,3 +18,5 @@ jxpg.do()
 > 评估成功7门课!
 
 评估后的结果样例:
+
+![image](https://github.com/imu-hupeng/jxpg/raw/master/static/1.jpg)
