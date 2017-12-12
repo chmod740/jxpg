@@ -1,4 +1,6 @@
 # 内蒙古大学教学评估 Python3脚本(新版本)
+*此版本为非官方授权版本,由运行此脚本产生的后果与本人无关,请谨慎使用
+### 项目进展：开发完成
 ###  目前提供新版本windows可执行程序[下载](https://github.com/imu-hupeng/jxpg/releases/download/v1.0.3/main.exe)
 ![image](https://github.com/imu-hupeng/jxpg/raw/master/static/2.jpg)
 
