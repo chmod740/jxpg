@@ -1,5 +1,11 @@
-# jxpg
-# 内蒙古大学教学评估 Python3脚本
+# 内蒙古大学教学评估 Python3脚本(新版本)
+# 目前提供新版本windows可执行程序下载
+![image](https://github.com/imu-hupeng/jxpg/raw/master/static/2.jpg)
+
+#
+# 以下为旧版本介绍，目前此版本已经无法使用
+<del> 
+
 ### *此版本为非官方版本,由运行此脚本产生的后果与本人无关,请谨慎使用
 ##### 项目进展：开发完成
 ##### 项目地址：https://github.com/imu-hupeng/jxpg
@@ -20,3 +26,4 @@ jxpg.do()
 评估后的结果样例:
 
 ![image](https://github.com/imu-hupeng/jxpg/raw/master/static/1.jpg)
+</del> 
